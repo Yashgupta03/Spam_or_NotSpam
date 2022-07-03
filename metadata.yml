@@ -1,0 +1,12 @@
+---
+:id: 123212595
+:submitters:
+- :name: 201144 YASH GUPTA
+  :email: yashg20@iitk.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-22 15:43:24.099437000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-22 08:43:24.099437000 Z
+:status: processed
+:score: 28.0
